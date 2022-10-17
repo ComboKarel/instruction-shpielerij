@@ -1,4 +1,4 @@
-# H1 InstructionShpielerij
+# InstructionShpielerij
 
 Adds functionality for instruction and instructionhandler objects.
 This package was made to solve the problem of method chaining in nested classes.
@@ -7,7 +7,7 @@ Check out the [Example Project](https://github.com/ComboKarel/instruction-shpiel
 
 Licensed under the MIT License.
 
-## H2 Example
+## Example
 
 ```cs
 using InstructionShpielerij;
